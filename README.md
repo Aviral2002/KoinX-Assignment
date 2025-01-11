@@ -1,5 +1,7 @@
 # KoinX Assignment Project
 
+https://7y8tub8elny4uthdj.lite.vusercontent.net/
+
 ## Overview
 
 This project is a web application built with Next.js, designed to provide a cryptocurrency dashboard with a focus on Bitcoin. It integrates various components to display real-time pricing data, interactive charts, market fundamentals, news insights, and more. The application utilizes libraries like `lucide-react` for icons, `recharts` for charting, `tailwind-merge` and `clsx` for styling and `vaul` for drawer and `cmdk` for command pallete. It leverages `react-hook-form` and `zod` for form management and validation respectively.
